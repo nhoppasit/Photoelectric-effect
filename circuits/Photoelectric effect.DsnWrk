@@ -2,3 +2,7 @@
 Version=1.0
 [Project1]
 ProjectPath=Current amplifier\current amplifier.PrjPCB
+[Project2]
+ProjectPath=Photoelectric effect to ammeter\Photoelectric effect to Ammeter.PrjPCB
+[Project3]
+ProjectPath=..\..\..\..\My PCB Library\Components\Components.LibPkg
